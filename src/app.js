@@ -1,8 +1,5 @@
-// var angular = require('angular')
-//   , mocks	= require('angular-mocks');
+'strict';
 
-var angular = require('angular');
-	mocks   = require('angular-mocks');
 
 angular.module('myApp',[])
 	
